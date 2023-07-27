@@ -1,0 +1,57 @@
+/* login css */
+form{
+    width: 300px;
+    height: 400px;
+  background-color: black;
+  margin-top: 200px;
+  margin-left: 600px;
+  color: rgb(167, 103, 103);
+
+}
+.form-label,.form-control{
+     width: 250px;
+     height: 40px;
+    background-color: rgb(240, 238, 238);
+    color: rgb(6, 3, 3);
+    margin-left: 20px;
+    margin-top: -50px;
+}
+.btn{
+    margin-left: 20px;
+    background-color:brown;
+    
+}.form-input{
+     margin-left: 20px;
+     margin-top: 15px;
+
+}
+.form-input1{
+    margin-left: 2px;
+    margin-top: 15px;
+}
+.logo{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+/* signup css */
+.signup{
+    width: 600px;
+    height:600px;
+    margin-left: 450px;
+}
+.form-control1{
+    margin-left: 40px;
+    margin-top:20px;
+    width: 500px;
+    height: 40px;
+}
+.logoo{
+    width: 400px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 95px;
+}
+.form-input2{
+    margin-left: 20px;
+}

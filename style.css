@@ -1,0 +1,208 @@
+/* default margin and padding */
+*{
+    margin: 0;
+    padding: 0;
+    /* css for nav bar or header starts */
+}
+/* logo width */
+img{
+    width: 200px;
+}
+/* css for div1 / div1 holds nav bar  */
+.div1{
+    background-color: black;
+    color: rgb(251, 251, 251);
+    width: auto;
+    height: 50px;
+    font-size: 20px;
+    box-sizing: border-box;
+   
+}
+/* css for list item/nav bar content  */
+.list{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    text-align: left;
+    font-display:inherit;
+    
+}
+li:hover{
+    height: 30px;
+    width: auto;
+    margin: 0;
+    background-color:grey;
+}
+a:hover{
+    height: 30px;
+    width: auto;
+    margin: 0;
+ background-color:rgb(161, 72, 72);
+}
+/* list and search bar margin top */
+li,#search{
+    margin-top: 15px;
+}
+/* css for logo */
+img{
+    width: 250px;
+    height:50px ;
+}
+/* css for search bar */
+#search{
+    margin: 0;
+    background-color: white;
+    color: black;
+    width: 300px;
+    height: 30px;
+    float: right;
+    margin-top: 12px;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* css for anchor tag */
+.loginn,.signupp{
+    color:rgb(46, 125, 199);
+    margin-top: 15px;
+    float: right;
+}
+/* css for marquee tag */
+marquee{
+    margin-top: 0px;
+    width: 1519px;
+    height: 25px;
+    background-color: grey;
+    color: whitesmoke;
+    font-size: 18px;
+
+}
+/* css for  nav bar / header icons */
+.div2,.cart,.twitter,.instagram,.facebook{
+    margin-top: 7px;
+    width: 20px;
+    height: 20px;
+    float: right;
+    display:flex;
+    
+}
+
+.search{
+    margin-top: 9.5px;
+    float: right;
+    width: 40px;
+    height: 35px;
+}
+.home{
+    margin-top:-8px ;
+    width: 40px;
+    height: 35px;
+}
+/* css for nav bar ends  */
+/* css for 75% sale image */
+.img1{
+    width: 1480px;
+    background-color: black;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+.image1{
+       width: 950px;
+       height: 600px;
+       margin-top:25px;
+       margin-left: 250px;
+}
+
+
+/* header and main partition line */
+.div3{
+    width: 1519px;
+    height: 40px;
+    background-color: black;
+    margin-top: 10px;
+}
+
+/* css for main  */
+
+/* css for haeding */
+.heading{
+    width: 350px;
+    height: 35px;
+    background-color:rgb(88, 26, 26);
+    color: grey;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 10pxpx;
+}
+.deals,.wear,.beauty1,.foods,.accs{
+    margin-top:2.5px ;
+    margin-left: 25px;
+}
+/* css for best deals containers */
+.container1,.container2.container3,.container4,.container5,.container6,.container7,.container8,.container9,.container10,.container11,.container12,.container13,.container14,.container15,.container16,.container17,.container18,.container19,.container20,.container21,.container22{
+        background-color:black;
+        color: grey;
+        width: 200px;
+        height: 200px;
+        margin-top: 50px;
+        /* border: 4px solid rgb(84, 23, 23); */
+        display: inline-block;
+        margin-left: 78px;
+        justify-content: space-evenly;
+        
+}
+.button1,.button2,.button3,.button4,.button5,.button6,.button7,.button8,.button9,.button10,.button11,.button12,.button13,.button14,.button15,.button16,.button17,.button18,.button19,.button20,.button21,.button22{
+    width: 202px;
+    height: 50x;
+    /* justify-content: space-evenly; */
+    display: inline-block;
+    margin-left: -5px;
+    color: grey;
+    border: 5px solid rgb(72, 24, 24);
+    /* margin-top: 210px; */
+    background-color:rgb(57, 53, 53);
+    text-align: center;
+}
+/*for foodmarquee  */
+.foodmarquee{
+    margin-top: 50px;
+    color: rgb(89, 24, 24);
+}
+/* for poster */
+.poster{
+          width: 1519px;
+          height: 650px;
+          margin-top: 15px;
+}
+#girl{
+    margin-top: 50px;
+    height: 400px;
+}
+/* for products image */
+.content{
+    width: 200px;
+    height: 200px;
+}
+/* css for footer */
+.div9{
+    width: auto;
+    height: 150px;
+    background-color: black;
+    color:grey;
+    /* margin-top: 1500px; */
+    padding-left: 50px;
+    font-size: 20px;
+    list-style-type: none;
+    text-align: center;
+}
+.bottom{
+    margin-top: 100px;
+    font-size: 20px;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+
+}
+.twitter,.instagram{
+    margin-top: 0 px;
+}
